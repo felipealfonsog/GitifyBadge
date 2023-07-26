@@ -1,3 +1,21 @@
+/*
+
+
+
+▒█▀▀█ ░▀░ ▀▀█▀▀ ░▀░ █▀▀ █░░█ ▒█▀▀█ █▀▀█ █▀▀▄ █▀▀▀ █▀▀ 
+▒█░▄▄ ▀█▀ ░░█░░ ▀█▀ █▀▀ █▄▄█ ▒█▀▀▄ █▄▄█ █░░█ █░▀█ █▀▀ 
+▒█▄▄█ ▀▀▀ ░░▀░░ ▀▀▀ ▀░░ ▄▄▄█ ▒█▄▄█ ▀░░▀ ▀▀▀░ ▀▀▀▀ ▀▀▀
+
+#*************************************
+# Developed and engineered by 
+# Felipe Alfonso Gonzalez <f.alfonso@res-ear.ch>
+# Computer Science Engineer
+# Chile
+#*************************************
+
+*/
+
+
 const token = "***************************";
 const hasBio = false;  
 const hasProfileLink = true;  
